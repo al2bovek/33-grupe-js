@@ -111,3 +111,52 @@ console.log(' ');
 console.log('Ciklo for panaudojimas')
 
 console.log(' ');
+
+
+let suma = 0
+for (let i = 0; i<=0; i++) {
+    suma=suma+i
+    }
+    console.log(suma)   
+let sumaa = 0
+for (let i = 0; i<=4; i++) {
+    sumaa=sumaa+i
+    }
+    console.log(sumaa)
+let sumab = 0
+for (let i = 0; i<=100; i++) {
+    sumab=sumab+i
+    }
+    console.log(sumab)
+let sumac = 0
+for (let i = 574; i<=815; i++) {
+    sumac=sumac+i
+    }
+    console.log(sumac) 
+let sumad = 0
+for (let i = -50; i<=-50; i++) {
+    sumad=sumad+i
+    }
+    console.log(sumad)
+let sumae = 0
+for (let i = -70; i<=-30; i++) {
+    sumae=sumae+i
+    }
+        console.log(sumae)  
+
+        console.log(' ') 
+
+let rotor = "rotor"
+let any = ''
+for (let i = rotor.length-1; i>=0; i--) {
+    any+=rotor[i]
+    }
+        console.log(any)
+
+        console.log(' ') 
+
+
+
+        
+            
+            
