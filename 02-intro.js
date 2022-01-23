@@ -156,6 +156,17 @@ for (let i = rotor.length-1; i>=0; i--) {
         console.log(' ') 
 
 
+ let int=[0,11,8,31,-18,18];
+ let dalnIs=[3,5,7];
+ let x=0;
+ for (let i=0; i<=11; i++){
+ if (i % dalnIs[0] === 0) {
+     x++
+ }
+}
+
+    console.log(
+    `Skaičių intervale tarp ${int[0]} ir ${int[1]}, besidalijančių be liekanos iš ${dalnIs[0]} yra ${x} vienetai.`)
 
         
             
