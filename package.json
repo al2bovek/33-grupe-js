@@ -4,7 +4,7 @@
   "description": "JS",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon ./02-intro.js",
+    "dev": "nodemon ./03-intro.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": ["JS"],
