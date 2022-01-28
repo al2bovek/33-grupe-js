@@ -1,2 +1,2 @@
 // Setup
-console.log('js');
+console.log('JS');
