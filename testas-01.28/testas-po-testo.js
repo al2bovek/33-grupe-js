@@ -45,6 +45,12 @@ while(skaiciai3 !== 5) {
 
 //6.Sukurti masyvą, kurio ilgis būtų nuo 20 iki 30, o reikšmės būtų skaičiai nuo 10 iki 30.
 //Surasti antrą didžiausią masyvo reikšmę, nenaudojant sort funkcijos.
+const amasyvas = [];
+for (i = 1; i <= 30; i++) {
+   amasyvas.push(i);
+}
+console.log(amasyvas);
+
 function masyvas(start,end){
   masyvas=[];
   for (i=start; i<=end; i++){
@@ -56,6 +62,7 @@ function masyvas(start,end){
   
 }
 masyvas(10,30)
+
 
 
 

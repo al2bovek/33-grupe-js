@@ -1,0 +1,23 @@
+const ar = []
+let n = 9
+for (i=1; i<=n; i++){
+ar.push(i);
+}
+console.log(ar);
+
+const arl = ar.length;
+console.log(arl);
+
+const str = ('tekstas');
+console.log(str.length);
+
+console.log(str.charAt(0));
+console.log(str.charAt(str.length-1));
+console.log(str.charAt(str.length/2));
+
+
+arr = [a=3,b=5,c=6]
+console.log(a+b+c)/2;
+
+let name = 'You name'
+console.log('Sveiki, as esu '+ name +' !');
